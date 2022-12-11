@@ -1,0 +1,14 @@
+name: LinkEssentials
+version: 1.5v BETA
+main: me.sarthak.permissions.Main
+api-version: 1.19
+authors: [ TheSarthakDev ]
+description: Some Random Commands Which I Made By Using Permissions. And These Are For Only Testing. I Will Make A Proper Plugin Soon!
+website: https://www.thesarthakdev.wiki
+commands:
+  heal:
+    description: Heals The Player.
+  gmc:
+    description: Set Player's Gamemode To Creative.
+  godset:
+    description: Give A God Armor To The Player.
